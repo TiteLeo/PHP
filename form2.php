@@ -6,7 +6,7 @@
 </head>
 
     <body>
-        <form action="Thanks.php" method="post">
+        <form action="Thanks2.php" method="post">
             <?php
             if  (isset($_POST['errors'])){
                 echo $_POST['errors'];
